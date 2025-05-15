@@ -1,16 +1,40 @@
-# timer
+# Title
+Project Management App
 
-A new Flutter project.
+# Description
+A sleek and intuitive project management app built with Flutter. Easily create projects, assign tasks, track progress, and collaborate with team members in real-time.
+Ideal for individuals, startups, and teams aiming to stay organized and productive.
 
-## Getting Started
+# Features
+`▪ Project & task creation`
 
-This project is a starting point for a Flutter application.
+`▪ Progress tracking & status boards`
+  
+`▪ Task creation, assignment, and deadlines`
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Technologies Used
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="screenshots/home-entries.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/entry-add.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/entry-project-list.png" style="width: 250px; margin-right: 15px;"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="screenshots/entry-task-list.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/home-entries-group.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/menu.png" style="width: 250px; margin-right: 15px;"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="screenshots/project-add.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/task-add.png" style="width: 250px; margin-right: 15px;"/>
+  <img src="screenshots/task-management.png" style="width: 250px; margin-right: 15px;"/>
+</div>
+
+
